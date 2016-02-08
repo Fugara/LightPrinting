@@ -1,0 +1,11 @@
+Motor:
+
+	teeth = 20
+
+	profile = 3
+
+Mechanizem:
+
+	teeth = 40
+
+	profile = 3
